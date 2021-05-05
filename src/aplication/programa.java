@@ -6,6 +6,7 @@ public class programa {
 		// TODO Auto-generated method stub
 		System.out.println("hello");
 		int a = 9;
+		System.out.println("valor de a=" + a);
 	}
 
 }
